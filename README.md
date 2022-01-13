@@ -1,2 +1,2 @@
-# token
+# Token
 This is Zaschecoin token
